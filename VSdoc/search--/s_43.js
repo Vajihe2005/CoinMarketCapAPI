@@ -1,0 +1,1 @@
+search_result['43']=["topic_0000000000000018.html","USD.percent_change_7d Property",""];

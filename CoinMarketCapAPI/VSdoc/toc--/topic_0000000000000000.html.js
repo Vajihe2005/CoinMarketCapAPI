@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"CoinMarketCapAPI Reference","topic_0000000000000005.html"],['4',"CoinMarketCapAPI Namespace","topic_0000000000000000.html"]];

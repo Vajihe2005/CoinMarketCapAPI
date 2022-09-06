@@ -1,0 +1,1 @@
+search_result['47']=["topic_000000000000001C.html","USD.market_cap Property",""];

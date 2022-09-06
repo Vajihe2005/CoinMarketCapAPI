@@ -1,0 +1,1 @@
+search_result['119']=["topic_0000000000000040.html","Service1.OnStart Method","When implemented in a derived class, executes when a Start command is sent to the service by the Service Control Manager (SCM) or when the operating system starts (for a service that starts automatica..."];

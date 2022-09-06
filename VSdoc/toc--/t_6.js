@@ -1,0 +1,1 @@
+c['6']=[['7',"AddCoinMarketCapData Method","topic_0000000000000007.html",0],['8',"AddIndicatorData Method","topic_0000000000000008.html",0],['9',"GetSymbols Method","topic_0000000000000009.html",0]];

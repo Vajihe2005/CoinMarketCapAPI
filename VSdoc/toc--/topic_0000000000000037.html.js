@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_0000000000000043.html"],['4',"CoinMarketCap Namespace","topic_0000000000000005.html"],['10',"Common Class","topic_0000000000000034.html"],['11',"Methods","topic_0000000000000034_methods--.html"],['13',"WriteToFile Method","topic_0000000000000037.html"]];
